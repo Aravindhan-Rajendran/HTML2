@@ -1,0 +1,74 @@
+*{
+    background-color: black;
+    color: white;
+    margin:0;
+    padding:0;
+    font-family:sans-serif;
+}
+.container form{
+    position: relative;
+    margin-left:500px;
+    margin-top: 150px;;
+    width:700px;
+    height:400px;
+}
+.container h1{
+    margin-bottom: 20px;
+}
+input.name{
+    width:100%;
+    padding:10px 5px;
+    margin:5px 0;
+    border:0;
+    border-bottom: 1px solid white;
+    background: transparent;
+}
+input.email{
+    width:100%;
+    padding:10px 5px;
+    margin:5px 0;
+    border:0;
+    border-bottom: 1px solid white;
+    background: transparent;
+}
+input.password{
+    width:100%;
+    padding:10px 5px;
+    margin:5px 0;
+    border:0;
+    border-bottom: 1px solid white;
+    background: transparent;
+}
+input.confirmpassword{
+    width:100%;
+    padding:10px 5px;
+    margin:5px 0;
+    border:0;
+    border-bottom: 1px solid white;
+    background: transparent;
+}
+input.dob{
+    width:100%;
+    padding:10px 5px;
+    margin:5px 0;
+    border:0;
+    border-bottom: 1px solid white;
+    background: transparent;
+}
+input.student{
+        margin-top: 20px;
+}
+input.employee{
+    margin-left: 100px;
+}
+.check{
+    margin-top: 20px;
+}
+.signup{
+    margin-top: 30px;
+    background-color: white;
+    color: black;
+    width: 110px;
+    height: 30px;
+}
+
